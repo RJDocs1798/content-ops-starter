@@ -40,19 +40,7 @@
             "type": "Link"
         }
     ],
-    "secondaryLinks": [
-        {
-            "type": "Button",
-            "label": "Contact",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-centered-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
