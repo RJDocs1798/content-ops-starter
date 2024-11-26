@@ -60,7 +60,7 @@
                 },
                 {
                     "label": "Dropdown item",
-                    "url": "/",
+                    "url": "/Home",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
