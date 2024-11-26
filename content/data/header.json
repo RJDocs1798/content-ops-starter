@@ -80,7 +80,7 @@
             "type": "Button",
             "label": "Contact us",
             "altText": "",
-            "url": "/Contact us",
+            "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
