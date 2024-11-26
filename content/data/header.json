@@ -44,7 +44,7 @@
             "links": [
                 {
                     "label": "About Us",
-                    "url": "/",
+                    "url": "/About us",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
