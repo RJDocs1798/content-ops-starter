@@ -71,7 +71,7 @@
                     "altText": "Careers page"
                 }
             ],
-            "labelStyle": "secondary",
+            "labelStyle": "primary",
             "type": "SubNav"
         }
     ],
