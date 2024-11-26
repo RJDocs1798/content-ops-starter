@@ -78,7 +78,7 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Contact us",
             "altText": "",
             "url": "/Contact us",
             "showIcon": false,
