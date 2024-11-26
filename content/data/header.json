@@ -62,7 +62,7 @@
                 },
                 {
                     "label": "Careers",
-                    "url": "/Home",
+                    "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
