@@ -53,7 +53,7 @@
                 },
                 {
                     "label": "Testimonial",
-                    "url": "/testimonial",
+                    "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
