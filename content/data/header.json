@@ -43,7 +43,7 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Contact us",
+            "label": "Contact",
             "altText": "",
             "url": "/",
             "showIcon": false,
